@@ -1,7 +1,16 @@
-# Agency AI Project
+# Hannah CEO
 
-An AI-assisted application for an agency workflow. The specific project scope is still being explored.
+A growing record of my entrepreneurship notes, project experiments, coding journey, and lessons learned.
 
-## Current status
+## What belongs here
 
-Planning and selecting the first version of the product.
+- Entrepreneurship records and reflections
+- Business and product experiments
+- Coding projects and learning notes
+- Problems, decisions, and lessons
+- Current progress and future ideas
+
+## Project status
+
+Early planning. Hannah CEO is currently the repository title; a public brand has not been established.
+
