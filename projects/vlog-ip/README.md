@@ -48,6 +48,8 @@ Version one should answer:
 - Public-safe performance measurements
 - What Hannah learned and what she will change next
 
+The current public profiles are listed in [`social-accounts.md`](social-accounts.md).
+
 Do not record private messages, customer information, account credentials, unpublished financial details, or another person's identifying information without permission.
 
 ## Open decisions
