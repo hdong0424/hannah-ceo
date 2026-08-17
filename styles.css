@@ -23,3 +23,28 @@ p {
   margin: 0 0 16px;
   font-size: 18px;
 }
+
+section {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1px solid #c9a892;
+}
+
+h2 {
+  margin: 0 0 8px;
+  color: #8a4635;
+  font-size: 16px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 0 0 12px;
+  font-size: 28px;
+}
+
+a {
+  color: #8a4635;
+  font-weight: bold;
+  text-underline-offset: 4px;
+}
