@@ -31,11 +31,9 @@ section {
 }
 
 h2 {
-  margin: 0 0 8px;
+  margin: 0 0 12px;
   color: #8a4635;
-  font-size: 16px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+  font-size: 18px;
 }
 
 h3 {
@@ -47,4 +45,56 @@ a {
   color: #8a4635;
   font-weight: bold;
   text-underline-offset: 4px;
+}
+
+.primary-copy {
+  margin-bottom: 4px;
+}
+
+.translation {
+  margin-bottom: 20px;
+  color: #766b63;
+  font-size: 15px;
+}
+
+.heading-translation {
+  display: block;
+  margin-top: 2px;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 8px;
+}
+
+.link-translation {
+  display: block;
+  color: #766b63;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.social-links {
+  margin: 28px 0 0;
+  padding: 0;
+  font-size: 18px;
+  list-style: none;
+}
+
+.social-links li {
+  padding: 14px 0;
+  border-bottom: 1px solid #dfcabc;
+}
+
+.social-links li:first-child {
+  padding-top: 0;
+}
+
+.account-id {
+  display: block;
+  color: #766b63;
+  font-size: 15px;
 }
