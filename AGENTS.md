@@ -25,3 +25,9 @@
 - Do not commit, push, deploy, publish, purchase, rename an external resource, or change an account without Hannah's explicit approval for that action.
 - Before adding public biographical or business claims, ask Hannah to verify their accuracy, privacy, and desired wording.
 - Keep explanations practical and use plain language while still teaching the underlying concept.
+
+## Coffee cadence
+
+- When Hannah sends `咖啡` or `coffee` as a trigger word, run `python3 tools/coffee.py`, then read and follow `CADENCE.md` using only the resulting evidence packet.
+- Running the cadence tool is a read-only inspection and does not require separate approval.
+- Treat the cadence as read-only. Any repository change still requires Hannah's separate, explicit approval.

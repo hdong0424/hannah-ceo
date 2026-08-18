@@ -2,6 +2,8 @@
 
 This roadmap records the current direction. It can change as Hannah learns, tests ideas, and makes new decisions.
 
+**Current focus:** [Vlog IP Project](projects/vlog-ip/README.md)
+
 ## Three-month objectives
 
 1. Establish a clear, maintainable public journal for entrepreneurship and coding work.
