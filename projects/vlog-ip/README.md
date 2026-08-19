@@ -52,6 +52,18 @@ The current public profiles are listed in [`social-accounts.md`](social-accounts
 
 Do not record private messages, customer information, account credentials, unpublished financial details, or another person's identifying information without permission.
 
+## Homework cover assets
+
+The current asset set contains three platform-specific covers built from the same portrait:
+
+| Platform | Asset | Cover headline |
+| --- | --- | --- |
+| 小红书 | [`xiaohongshu-homework-cover.png`](assets/xiaohongshu-homework-cover.png) | 美国小学作业少，家长就轻松吗？ |
+| 抖音 | [`douyin-homework-cover.png`](assets/douyin-homework-cover.png) | 美国小学作业，下周才交？！ |
+| 微信视频号 | [`wechat-channels-homework-cover.png`](assets/wechat-channels-homework-cover.png) | 不陪作业的美国妈妈，到底在忙什么？ |
+
+The repository does not currently record whether these covers have been published. Each image includes Hannah's portrait and part of a home interior. Hannah reviewed these images and approved their inclusion in the public repository on 2026-08-19.
+
 ## Open decisions
 
 - The first content theme
